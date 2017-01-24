@@ -4,7 +4,7 @@ Inspired from "okmr-d/DOFavoriteButton"
 
 Planned tasks
 
-Adding Ripple to the current animation
+Adding Ripple to the current animation<br>
 Add Support for normal buttons to make it more interactable.
 
 
