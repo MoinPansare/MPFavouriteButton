@@ -13,6 +13,8 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+xCode <b>8+</b><br> Swift<b> 3.0</b>
+
 ## Installation
 
 MPFavouriteButton is available through [CocoaPods](http://cocoapods.org). To install
