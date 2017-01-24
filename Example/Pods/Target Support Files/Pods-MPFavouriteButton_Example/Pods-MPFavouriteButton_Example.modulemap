@@ -1,0 +1,6 @@
+framework module Pods_MPFavouriteButton_Example {
+  umbrella header "Pods-MPFavouriteButton_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

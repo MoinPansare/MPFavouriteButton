@@ -1,10 +1,12 @@
-use_frameworks!
+
+platform :ios, '9.0'
 
 target 'MPFavouriteButton_Example' do
-  pod 'MPFavouriteButton', :path => '../'
+    use_frameworks!
+    pod 'MPFavouriteButton', :path => '../'
 
-  target 'MPFavouriteButton_Tests' do
-    inherit! :search_paths
+    target 'MPFavouriteButton_Tests' do
+        inherit! :search_paths
 
     
   end

@@ -1,0 +1,22 @@
+{
+  "name": "MPFavouriteButton",
+  "version": "0.1.0",
+  "summary": "A short description of MPFavouriteButton.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/MPFavouriteButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Moin": "moin.pansare@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/MPFavouriteButton.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MPFavouriteButton/Classes/**/*"
+}

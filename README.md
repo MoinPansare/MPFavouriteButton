@@ -1,5 +1,13 @@
 # MPFavouriteButton
 
+Inspired from "okmr-d/DOFavoriteButton"
+
+Planned tasks
+
+Adding Ripple to the current animation
+Add Support for normal buttons to make it more interactable.
+
+
 [![CI Status](http://img.shields.io/travis/Moin/MPFavouriteButton.svg?style=flat)](https://travis-ci.org/Moin/MPFavouriteButton)
 [![Version](https://img.shields.io/cocoapods/v/MPFavouriteButton.svg?style=flat)](http://cocoapods.org/pods/MPFavouriteButton)
 [![License](https://img.shields.io/cocoapods/l/MPFavouriteButton.svg?style=flat)](http://cocoapods.org/pods/MPFavouriteButton)
@@ -17,7 +25,7 @@ MPFavouriteButton is available through [CocoaPods](http://cocoapods.org). To ins
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "MPFavouriteButton"
+pod "MPFavouriteButton","~>https://github.com/MoinPansare/MPFavouriteButton.git"
 ```
 
 ## Author

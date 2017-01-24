@@ -1,0 +1,6 @@
+framework module MPFavouriteButton {
+  umbrella header "MPFavouriteButton-umbrella.h"
+
+  export *
+  module * { export * }
+}

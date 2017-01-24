@@ -1,0 +1,16 @@
+PODS:
+  - MPFavouriteButton (0.1.0)
+
+DEPENDENCIES:
+  - MPFavouriteButton (from `../`)
+
+EXTERNAL SOURCES:
+  MPFavouriteButton:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MPFavouriteButton: 77502261fde618619732aa07f2cc15adb4a9b7db
+
+PODFILE CHECKSUM: 300f471f123a9e388196cd4617f0a5d7f41b6566
+
+COCOAPODS: 1.1.1
